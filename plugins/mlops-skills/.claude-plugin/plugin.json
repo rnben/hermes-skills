@@ -1,0 +1,16 @@
+{
+  "name": "mlops-skills",
+  "description": "ML lifecycle: training, inference, evaluation, cloud GPU, image/audio models.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/mlops-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "mlops",
+    "claude-code"
+  ]
+}

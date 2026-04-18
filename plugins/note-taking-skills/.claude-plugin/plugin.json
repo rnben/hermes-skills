@@ -1,0 +1,16 @@
+{
+  "name": "note-taking-skills",
+  "description": "Read, search, and create notes in the Obsidian vault.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/note-taking-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "note taking",
+    "claude-code"
+  ]
+}

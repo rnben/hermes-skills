@@ -1,0 +1,16 @@
+{
+  "name": "gaming-skills",
+  "description": "Set up modded Minecraft servers and play Pokemon autonomously.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/gaming-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "gaming",
+    "claude-code"
+  ]
+}

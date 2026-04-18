@@ -1,0 +1,16 @@
+{
+  "name": "github-skills",
+  "description": "Full GitHub workflow: auth, repo management, PR review, issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/github-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "claude-code"
+  ]
+}

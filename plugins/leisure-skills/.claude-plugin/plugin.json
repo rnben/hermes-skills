@@ -1,0 +1,16 @@
+{
+  "name": "leisure-skills",
+  "description": "Find nearby places using OpenStreetMap.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/leisure-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "leisure",
+    "claude-code"
+  ]
+}

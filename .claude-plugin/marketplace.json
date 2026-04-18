@@ -1,0 +1,112 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hermes-skills",
+  "version": "1.0.0",
+  "description": "A curated collection of 80 skills across 20 plugin domains for Claude Code and other AI coding agents.",
+  "owner": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "plugins": [
+    {
+      "name": "apple-skills",
+      "description": "Manage Apple services: Notes, Reminders, FindMy, iMessage.",
+      "source": "./plugins/apple-skills"
+    },
+    {
+      "name": "ai-agent-skills",
+      "description": "Delegate coding tasks to Claude Code, Codex, OpenCode, Hermes Agent.",
+      "source": "./plugins/ai-agent-skills"
+    },
+    {
+      "name": "creative-skills",
+      "description": "SVG diagrams, ASCII art, hand-drawn diagrams, animations, web designs, music.",
+      "source": "./plugins/creative-skills"
+    },
+    {
+      "name": "data-science-skills",
+      "description": "Interactive Python execution with stateful Jupyter kernel.",
+      "source": "./plugins/data-science-skills"
+    },
+    {
+      "name": "devops-skills",
+      "description": "Webhook subscriptions for event-driven agent activation.",
+      "source": "./plugins/devops-skills"
+    },
+    {
+      "name": "qa-testing-skills",
+      "description": "Systematic exploratory QA testing of web applications.",
+      "source": "./plugins/qa-testing-skills"
+    },
+    {
+      "name": "email-skills",
+      "description": "Terminal email management via IMAP/SMTP with himalaya.",
+      "source": "./plugins/email-skills"
+    },
+    {
+      "name": "gaming-skills",
+      "description": "Set up modded Minecraft servers and play Pokemon autonomously.",
+      "source": "./plugins/gaming-skills"
+    },
+    {
+      "name": "github-skills",
+      "description": "Full GitHub workflow: auth, repo management, PR review, issues.",
+      "source": "./plugins/github-skills"
+    },
+    {
+      "name": "leisure-skills",
+      "description": "Find nearby places using OpenStreetMap.",
+      "source": "./plugins/leisure-skills"
+    },
+    {
+      "name": "mcp-skills",
+      "description": "Model Context Protocol: manage and connect external MCP servers.",
+      "source": "./plugins/mcp-skills"
+    },
+    {
+      "name": "media-skills",
+      "description": "GIF search, music generation, audio visualization, YouTube transcripts.",
+      "source": "./plugins/media-skills"
+    },
+    {
+      "name": "mlops-skills",
+      "description": "ML lifecycle: training, inference, evaluation, cloud GPU, image/audio models.",
+      "source": "./plugins/mlops-skills"
+    },
+    {
+      "name": "note-taking-skills",
+      "description": "Read, search, and create notes in the Obsidian vault.",
+      "source": "./plugins/note-taking-skills"
+    },
+    {
+      "name": "productivity-skills",
+      "description": "Google Workspace, Linear, Notion, Feishu, PDF editing, OCR, PowerPoint.",
+      "source": "./plugins/productivity-skills"
+    },
+    {
+      "name": "red-teaming-skills",
+      "description": "Jailbreak and red-team API-served LLMs using G0DM0D3 techniques.",
+      "source": "./plugins/red-teaming-skills"
+    },
+    {
+      "name": "research-skills",
+      "description": "Search arXiv papers, monitor blogs/RSS, manage knowledge bases, markets.",
+      "source": "./plugins/research-skills"
+    },
+    {
+      "name": "smart-home-skills",
+      "description": "Control Philips Hue lights, rooms, and scenes.",
+      "source": "./plugins/smart-home-skills"
+    },
+    {
+      "name": "social-media-skills",
+      "description": "Interact with X/Twitter from the terminal.",
+      "source": "./plugins/social-media-skills"
+    },
+    {
+      "name": "dev-workflow-skills",
+      "description": "TDD, systematic debugging, code review, planning, subagent-driven dev.",
+      "source": "./plugins/dev-workflow-skills"
+    }
+  ]
+}

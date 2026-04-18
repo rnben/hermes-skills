@@ -1,0 +1,16 @@
+{
+  "name": "dev-workflow-skills",
+  "description": "TDD, systematic debugging, code review, planning, subagent-driven dev.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/dev-workflow-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "software development",
+    "claude-code"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "productivity-skills",
+  "description": "Google Workspace, Linear, Notion, Feishu, PDF editing, OCR, PowerPoint.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/productivity-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "claude-code"
+  ]
+}

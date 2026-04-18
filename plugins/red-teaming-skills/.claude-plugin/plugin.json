@@ -1,0 +1,16 @@
+{
+  "name": "red-teaming-skills",
+  "description": "Jailbreak and red-team API-served LLMs using G0DM0D3 techniques.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/red-teaming-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "red teaming",
+    "claude-code"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "qa-testing-skills",
+  "description": "Systematic exploratory QA testing of web applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/qa-testing-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "dogfood",
+    "claude-code"
+  ]
+}

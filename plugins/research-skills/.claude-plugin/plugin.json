@@ -1,0 +1,16 @@
+{
+  "name": "research-skills",
+  "description": "Search arXiv papers, monitor blogs/RSS, manage knowledge bases, markets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/research-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "claude-code"
+  ]
+}

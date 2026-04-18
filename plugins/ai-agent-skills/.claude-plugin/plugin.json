@@ -1,0 +1,16 @@
+{
+  "name": "ai-agent-skills",
+  "description": "Delegate coding tasks to Claude Code, Codex, OpenCode, Hermes Agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnben",
+    "url": "https://github.com/rnben"
+  },
+  "homepage": "https://github.com/rnben/hermes-skills/tree/main/plugins/ai-agent-skills",
+  "repository": "https://github.com/rnben/hermes-skills",
+  "license": "MIT",
+  "keywords": [
+    "autonomous ai agents",
+    "claude-code"
+  ]
+}
