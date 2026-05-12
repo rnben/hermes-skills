@@ -1,6 +1,6 @@
 # LLM Agent 安装指南
 
-本仓库包含 80 个技能，支持多种 AI 编码助手。以下是各平台的安装方法。
+本仓库包含 81 个技能，支持多种 AI 编码助手。以下是各平台的安装方法。
 
 ---
 
@@ -144,7 +144,7 @@ hermes-skills/
 | 创意内容 | 9 | architecture-diagram, ascii-art |
 | 生产力工具 | 7 | notion, linear, google-workspace |
 | 开发工作流 | 6 | test-driven-development, systematic-debugging |
-| 其他 | 22 | media, research, gaming, etc. |
+| 其他 | 23 | media, research, social, gaming, etc. |
 
 ---
 

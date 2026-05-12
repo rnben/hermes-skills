@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "hermes-skills",
   "version": "1.0.0",
-  "description": "A curated collection of 80 skills across 20 plugin domains for Claude Code and other AI coding agents.",
+  "description": "A curated collection of 81 skills across 20 plugin domains for Claude Code and other AI coding agents.",
   "owner": {
     "name": "rnben",
     "url": "https://github.com/rnben"
@@ -100,7 +100,7 @@
     },
     {
       "name": "social-media-skills",
-      "description": "Interact with X/Twitter from the terminal.",
+      "description": "Interact with X/Twitter through terminal and Hermes plugin workflows.",
       "source": "./plugins/social-media-skills"
     },
     {
