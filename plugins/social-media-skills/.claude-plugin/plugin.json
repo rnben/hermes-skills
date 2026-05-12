@@ -1,6 +1,6 @@
 {
   "name": "social-media-skills",
-  "description": "Interact with X/Twitter from the terminal.",
+  "description": "Interact with X/Twitter through terminal and Hermes plugin workflows.",
   "version": "1.0.0",
   "author": {
     "name": "rnben",
@@ -11,6 +11,9 @@
   "license": "MIT",
   "keywords": [
     "social media",
+    "hermes",
+    "twitter",
+    "x",
     "claude-code"
   ]
 }

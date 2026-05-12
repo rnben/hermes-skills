@@ -1,6 +1,6 @@
 # Hermes Skills
 
-> A curated collection of **80 skills** organized into **20 plugins** for AI coding agents.
+> A curated collection of **81 skills** organized into **20 plugins** for AI coding agents.
 
 > **Source:** Skills extracted from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) v0.10.0
 
@@ -106,12 +106,13 @@ git clone https://github.com/rnben/hermes-skills.git
 | 72 | `research-paper-writing` | End-to-end ML/AI paper writing | https://github.com/NousResearch/hermes-agent |
 | 73 | `openhue` | Philips Hue light control | https://www.openhue.io/cli |
 | 74 | `xitter` | X/Twitter terminal client | https://github.com/Infatoshi/x-cli |
-| 75 | `plan` | Plan mode: inspect and write plan | https://github.com/NousResearch/hermes-agent |
-| 76 | `requesting-code-review` | Pre-commit security + quality scan | https://github.com/NousResearch/hermes-agent |
-| 77 | `subagent-driven-development` | Subagent dispatch + 2-stage review | https://github.com/NousResearch/hermes-agent |
-| 78 | `systematic-debugging` | 4-phase root cause investigation | https://github.com/NousResearch/hermes-agent |
-| 79 | `test-driven-development` | TDD RED-GREEN-REFACTOR cycle | https://github.com/NousResearch/hermes-agent |
-| 80 | `writing-plans` | Multi-step implementation plans | https://github.com/NousResearch/hermes-agent |
+| 75 | `hermes-tweet` | Native Hermes Agent X/Twitter plugin | https://github.com/Xquik-dev/hermes-tweet |
+| 76 | `plan` | Plan mode: inspect and write plan | https://github.com/NousResearch/hermes-agent |
+| 77 | `requesting-code-review` | Pre-commit security + quality scan | https://github.com/NousResearch/hermes-agent |
+| 78 | `subagent-driven-development` | Subagent dispatch + 2-stage review | https://github.com/NousResearch/hermes-agent |
+| 79 | `systematic-debugging` | 4-phase root cause investigation | https://github.com/NousResearch/hermes-agent |
+| 80 | `test-driven-development` | TDD RED-GREEN-REFACTOR cycle | https://github.com/NousResearch/hermes-agent |
+| 81 | `writing-plans` | Multi-step implementation plans | https://github.com/NousResearch/hermes-agent |
 
 ---
 

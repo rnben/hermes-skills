@@ -1,6 +1,6 @@
 # Hermes 技能
 
-> 为 AI 编码助手整理的 **80 个技能**，组织为 **20 个插件**。
+> 为 AI 编码助手整理的 **81 个技能**，组织为 **20 个插件**。
 
 > **来源：** 技能提取自 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) v0.10.0
 
@@ -106,12 +106,13 @@ git clone https://github.com/rnben/hermes-skills.git
 | 72 | `research-paper-writing` | ML/AI 论文写作流程 | https://github.com/NousResearch/hermes-agent |
 | 73 | `openhue` | Philips Hue 灯光控制 | https://www.openhue.io/cli |
 | 74 | `xitter` | X/Twitter 终端客户端 | https://github.com/Infatoshi/x-cli |
-| 75 | `plan` | 计划模式 | https://github.com/NousResearch/hermes-agent |
-| 76 | `requesting-code-review` | 提交前安全审查 | https://github.com/NousResearch/hermes-agent |
-| 77 | `subagent-driven-development` | 子代理两阶段审查 | https://github.com/NousResearch/hermes-agent |
-| 78 | `systematic-debugging` | 4 阶段根因分析 | https://github.com/NousResearch/hermes-agent |
-| 79 | `test-driven-development` | TDD 红绿重构 | https://github.com/NousResearch/hermes-agent |
-| 80 | `writing-plans` | 多步任务规划 | https://github.com/NousResearch/hermes-agent |
+| 75 | `hermes-tweet` | Hermes Agent 原生 X/Twitter 插件 | https://github.com/Xquik-dev/hermes-tweet |
+| 76 | `plan` | 计划模式 | https://github.com/NousResearch/hermes-agent |
+| 77 | `requesting-code-review` | 提交前安全审查 | https://github.com/NousResearch/hermes-agent |
+| 78 | `subagent-driven-development` | 子代理两阶段审查 | https://github.com/NousResearch/hermes-agent |
+| 79 | `systematic-debugging` | 4 阶段根因分析 | https://github.com/NousResearch/hermes-agent |
+| 80 | `test-driven-development` | TDD 红绿重构 | https://github.com/NousResearch/hermes-agent |
+| 81 | `writing-plans` | 多步任务规划 | https://github.com/NousResearch/hermes-agent |
 
 ---
 
